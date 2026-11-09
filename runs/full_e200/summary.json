@@ -1,0 +1,17 @@
+{
+  "n_params": 4941898,
+  "train_time_min": 14.77400408188502,
+  "final_weights": "ema",
+  "test_pred_class_counts": [
+    169,
+    214,
+    203,
+    202,
+    197,
+    230,
+    182,
+    197,
+    204,
+    202
+  ]
+}

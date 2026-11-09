@@ -1,0 +1,21 @@
+{
+  "n_params": 4941898,
+  "train_time_min": 13.540051666895549,
+  "val_acc_raw": 0.9688,
+  "val_acc_raw_tta": 0.9716,
+  "val_acc_ema": 0.9682,
+  "val_acc_ema_tta": 0.9714,
+  "final_weights": "raw",
+  "test_pred_class_counts": [
+    172,
+    217,
+    202,
+    199,
+    190,
+    221,
+    181,
+    205,
+    206,
+    207
+  ]
+}

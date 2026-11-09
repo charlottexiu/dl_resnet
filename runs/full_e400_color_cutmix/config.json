@@ -1,0 +1,40 @@
+{
+  "data": "data.zip",
+  "cache": "cifar_cache.npz",
+  "out": "/content/drive/MyDrive/dl_kaggle/runs/full_e400_color_cutmix",
+  "seed": 0,
+  "val_size": 0,
+  "widths": [
+    64,
+    128,
+    256,
+    368
+  ],
+  "blocks": [
+    2,
+    2,
+    2,
+    1
+  ],
+  "stem": 64,
+  "dropout": 0.0,
+  "epochs": 400,
+  "bs": 256,
+  "lr": 0.2,
+  "wd": 0.0005,
+  "momentum": 0.9,
+  "warmup": 5,
+  "label_smoothing": 0.1,
+  "ema": 0.999,
+  "aug": "trivial",
+  "cutout": 16,
+  "cutmix": 0.5,
+  "gray": 0.1,
+  "jitter": 0.3,
+  "workers": 8,
+  "compile": false,
+  "no_tta": false,
+  "smoke": false,
+  "n_params": 4941898,
+  "device": "cuda"
+}
