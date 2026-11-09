@@ -1,7 +1,5 @@
 # Efficient ResNet under 5M Parameters for CIFAR-10
 
-NYU Deep Learning (Fall 2026), Project 1 · Charlotte Xiu
-
 A ResNet-18-style network with **4,941,898 trainable parameters** (limit: 5,000,000), trained from scratch on the 50,000 CIFAR-10 training images.
 
 | Result | Value |
